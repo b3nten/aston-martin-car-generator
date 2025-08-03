@@ -1,0 +1,7 @@
+{
+  "name": "aston-car-generator",
+  "compatibility_date": "2025-8-02",
+  "assets": {
+    "directory": "./build",
+  },
+}
